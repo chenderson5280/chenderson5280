@@ -6,7 +6,7 @@
 😄 Welcome friends, to my Github. I am still very new to the tech world. Recent graduate from Flatiron School of Denver.
 <br>
 👯 Currently looking for a new company/family to call home.
-<img height="200" src="https://www.bsr.org/images/heroes/tech-against-trafficking-hero.jpg"/>
+<img width="100%"height="200" src="https://www.bsr.org/images/heroes/tech-against-trafficking-hero.jpg"/>
 
 
 <!--
