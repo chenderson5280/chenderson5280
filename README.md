@@ -3,7 +3,7 @@
 <br>
 📫 How to reach me: chenderson5280@gmail.com
 <br>
-Welcome friends, to my Github. I am still very new to the tech world. Recent graduate from Flatiron School of Denver.
+😄 Welcome friends, to my Github. I am still very new to the tech world. Recent graduate from Flatiron School of Denver.
 
 
 <!--
