@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Christopher. Friends call me Couch 👋
 🌱 I’m currently learning React-Native and Firebase
 <br>
 📫 How to reach me: chenderson5280@gmail.com
