@@ -1,4 +1,7 @@
 ### Hi there 👋
+🌱 I’m currently learning React-Native and Firebase
+📫 How to reach me: chenderson5280@gmail.com
+
 
 <!--
 **chenderson5280/chenderson5280** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
