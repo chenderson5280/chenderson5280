@@ -1,11 +1,12 @@
 ### Hi there, I am Christopher. Friends call me Couch 👋
-🌱 I’m currently learning React-Native and Firebase
+😄 Welcome to my Github. I am still very new to the tech world. Recent graduate from Flatiron School of Denver.
+
 <br>
-<h2>YO</h2>
+<h2>About me :</h2>
 <br>
 📫 How to reach me: chenderson5280@gmail.com
 <br>
-😄 Welcome friends, to my Github. I am still very new to the tech world. Recent graduate from Flatiron School of Denver.
+🌱 I’m currently learning React-Native and Firebase
 <br>
 👯 Currently looking for a new company/family to call home.
 <img width="100%" height="250" src="https://www.bsr.org/images/heroes/tech-against-trafficking-hero.jpg"/>
