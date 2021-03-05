@@ -5,7 +5,7 @@
 🌱 I’m currently learning React-Native and Firebase
 <br>
 ⚡ Currently looking for a new company/family to call home.
-<img  height="250" src="https://previews.123rf.com/images/saicle/saicle1704/saicle170400082/76089788-hi-tech-abstract-banner-with-dotted-world-map-header-bright-design.jpg"/>
+<img width="100%" height="200" src="https://previews.123rf.com/images/saicle/saicle1704/saicle170400082/76089788-hi-tech-abstract-banner-with-dotted-world-map-header-bright-design.jpg"/>
 📫 How to reach me: chenderson5280@gmail.com
 
 
