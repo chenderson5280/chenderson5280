@@ -2,7 +2,7 @@
 😄 Welcome to my Github. I am still very new to the tech world. Recent graduate from Flatiron School of Denver.
 <h2>About me :</h2>
 <br>
-
+<p> Father of two and happily married for 15+ years. Lived in Colorado most of my life and loving every moment of it. Big fan of the outdoors, but most of my time I enjoy playing co-op video games with my family. Legendary skills behind a grill and also a health nut.  </p>
 <br>
 🌱 I’m currently learning React-Native and Firebase
 <br>
